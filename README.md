@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @69cyber-demon
 - 👀 I’m interested in the development field
-- 🌱 I’m currently learning compputer science
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on programming ideas
 - 📫 one can find me on telegram at t.me/travis_4152
 - 😄 Pronouns: ...
